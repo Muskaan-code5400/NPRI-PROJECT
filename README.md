@@ -1,1 +1,2 @@
 # NPRI-PROJECT
+In this project, prediction of release of nitrogen oxide and carbon monoxide was made from oil and gas extraction companies with the change in oil prices over time. This project involves real-world data to analyze the trends involved in it and do analysis is an interesting part because it helps to gain a real-world scenario to be experienced in which machine learning is used to make valuable predictions. Various machine learning models were deployed to make predictions. 
